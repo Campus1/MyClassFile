@@ -1,0 +1,6 @@
+Clean House, low
+Pay Bills, high
+homework, high
+cook food, high
+wash car, low
+play golf , low
